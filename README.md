@@ -1,1 +1,12 @@
 # albion-online-dungeon-scanners
+1. SCAN ALL THE DANGEOUN INCLUDING:
+ A. AVA DANGEOUN
+ B. GDG
+ C. SDG
+ D. CDG
+2. TOTAL MOBS
+3. BOSS NAME
+4. CHEST COLOUR 
+5. TYPE CHEST
+6. PLAYERS DETECTING
+7. and more..
