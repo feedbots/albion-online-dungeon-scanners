@@ -10,3 +10,8 @@
 5. TYPE CHEST
 6. PLAYERS DETECTING
 7. and more..
+
+
+discord: https://discord.gg/Vz9KB4SRQ6
+discord: @feedbotss
+showcase video: https://youtu.be/uCk9wI64XTY?si=9w-Imd7tCx7xxHL9 
